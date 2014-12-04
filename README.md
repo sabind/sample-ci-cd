@@ -32,5 +32,3 @@ Docker Commands
 
     sudo docker build -t sabind/nodejs-against-humanity:master .
     sudo docker run -d -p 3000:3000 --name sample-app sabind/nodejs-against-humanity:master start
-    
-    jingle
