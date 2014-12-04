@@ -1,4 +1,4 @@
-http://198.199.100.206:8080/job/unit-tests/badge/icon
+[![Build Status](http://198.199.100.206:8080/job/unit-tests/badge/icon)](http://198.199.100.206:8080/job/unit-tests/)
 
 ##NodeJS Against Humanity
 
