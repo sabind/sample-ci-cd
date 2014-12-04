@@ -34,4 +34,3 @@ Docker Commands
     sudo docker run -d -p 3000:3000 --name sample-app sabind/nodejs-against-humanity:master start
     
     
-jiggle
