@@ -12,7 +12,7 @@ RUN touch ~/.profile
 
 RUN curl https://raw.githubusercontent.com/creationix/nvm/v0.20.0/install.sh | bash
 RUN \
-	source ~/.profile && \
+	source ~/.nvm/nvm.sh && \
 	nvm install v0.10.32 && \
 	n=$(which node);n=${n%/bin/node}; chmod -R 755 $n/bin/*; cp -r $n/{bin,lib,share} /usr/local
 	
