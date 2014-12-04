@@ -10,7 +10,7 @@ RUN yum groupinstall -y "Development Tools"
 
 RUN touch ~/.profile
 
-RUN curl https://raw.githubusercontent.com/creationix/nvm/v0.11.1/install.sh | bash
+RUN curl https://raw.githubusercontent.com/creationix/nvm/v0.20.0/install.sh | bash
 RUN \
 	source ~/.profile && \
 	nvm install v0.10.32 && \
