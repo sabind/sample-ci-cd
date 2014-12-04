@@ -27,4 +27,6 @@ WORKDIR /var/nodejs-against-humanity
 
 RUN npm install
 
+EXPOSE 3000
+
 ENTRYPOINT ["npm"]
