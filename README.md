@@ -4,6 +4,8 @@
 
 Orignally from: <a href="https://github.com/amirrajan/nodejs-against-humanity">Amir Rajan - NodeJS Against Humanity</a>
 
+I did not fork the original project because I wanted to be able to showcase a CI/CD flow and couldn't with the github fork model.
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/2.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons Attribution-NonCommercial-ShareAlike 2.0 Generic License</a>.
 
 NodeJS implementation of Cards Against Humanity. Here's a screenshot:
