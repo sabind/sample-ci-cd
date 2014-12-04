@@ -1,0 +1,7 @@
+node_modules
+tags
+*.idea
+*.swp
+
+.c9/
+reports/
